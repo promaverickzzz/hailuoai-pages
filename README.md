@@ -1,0 +1,2 @@
+# hailuoai-pages
+Hailuo AI
